@@ -1,2 +1,2 @@
-# test
-d
+# readne
+cosas mias
