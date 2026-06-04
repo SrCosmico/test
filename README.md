@@ -1,2 +1,2 @@
-# readne
-cosas mias
+# README
+cosas mias, pruebas y tests. 
